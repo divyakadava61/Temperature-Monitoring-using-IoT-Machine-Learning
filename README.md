@@ -40,5 +40,9 @@ Develop an IoT-based temperature monitoring system to:
   
   ![image](https://github.com/user-attachments/assets/284b8c70-6964-456c-bfe1-3f04a7871f35)
 
+  ![temp_anomaly_detection](https://github.com/user-attachments/assets/9f25e9b2-9897-4c89-a8d6-eddd4b3ae6c0)
+
+  
+
 # Conclusion
 This project illustrates the synergy between IoT and Machine Learning in building smart, responsive, and regulation-compliant systems. It is an efficient solution for pharmaceutical manufacturing, where temperature control is critical. The use of Bolt IoT, LM35, cloud integration, and Python-based predictive modeling makes the system reliable and scalable with minimal hardware.
