@@ -12,7 +12,9 @@ Develop an IoT-based temperature monitoring system to:
    - Sensor: LM35 temperature sensor connected to the Bolt IoT WiFi module.
    - Environment: Simulated using a household refrigerator (as industrial cooling chambers were unavailable).
    - Power: 5V DC adapter.
-![image](https://github.com/user-attachments/assets/8b0610ec-0cd2-456c-845a-c7f90f7d86fd)
+  
+     ![image](https://github.com/user-attachments/assets/4a1ffed3-1560-4999-b05c-6fb0f0903320)
+
 2. Data Acquisition & Cloud Integration
    - Connected LM35 to the Bolt module using female-to-male jumper wires.
    - Configured Bolt Cloud to read analog values from the sensor every 5 minutes.
@@ -35,6 +37,7 @@ Develop an IoT-based temperature monitoring system to:
 - Z-score analysis successfully detected door openings with no need for contact sensors.
 - Polynomial regression enabled forecasting and timely intervention before conditions became non-compliant.
 - Demonstrated how low-cost hardware and simple ML models can enforce safety standards in sensitive industrial processes.
+  
   ![image](https://github.com/user-attachments/assets/284b8c70-6964-456c-bfe1-3f04a7871f35)
 
 # Conclusion
