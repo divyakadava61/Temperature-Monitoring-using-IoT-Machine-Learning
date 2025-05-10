@@ -23,7 +23,6 @@ Develop an IoT-based temperature monitoring system to:
    - Predict if the temperature would stay between -33°C and -30°C for more than 20 minutes.
 4. Anomaly Detection via Z-score Analysis
    - Implemented Z-score anomaly detection to monitor sudden changes in sensor readings.
-   - 
    - Tuned the model to detect spikes when the fridge door is opened (simulating human intervention).
    - No extra sensors were used to detect door state—purely based on temperature fluctuation.
 5. Email Alerts using Mailgun API
