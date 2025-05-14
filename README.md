@@ -2,7 +2,8 @@
 # Description
 This project is a real-world Industrial IoT application that uses a Bolt WiFi module and LM35 temperature sensor to monitor, predict, and alert temperature anomalies during the pharmaceutical manufacturing process, specifically in tablet production. It combines IoT hardware with Machine Learning (Polynomial Regression and Z-score Analysis) to ensure compliance with regulatory temperature constraints and optimize process reliability.
 
-![Pharmaceutical Production Monitoring_BoltIoT](https://github.com/user-attachments/assets/9baea115-2c6b-434d-a629-70eab249a18b)
+![image](https://github.com/user-attachments/assets/05ef1acb-11db-4a83-90fc-30f2ede5dfa5)
+
 
 # Goal
 Develop an IoT-based temperature monitoring system to:
